@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://naturise-shop.petitndoye55.chatgpt.site/sitemap.xml
