@@ -1,0 +1,4 @@
+name = "naturise-shop"
+pages_build_output_dir = "./dist/client"
+compatibility_date = "2026-09-29"
+compatibility_flags = ["nodejs_compat"]
